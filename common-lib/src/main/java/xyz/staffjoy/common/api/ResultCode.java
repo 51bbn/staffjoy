@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Result Code Enum
  *
- * @author william
+ * @author wei.zhang
  */
 @Getter
 @AllArgsConstructor
